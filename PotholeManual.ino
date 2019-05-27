@@ -109,9 +109,7 @@ void loop() {
             myFile.print(",");
             myFile.print(gps.course.deg());
             myFile.print(",");
-            myFile.print("Y");
-            myFile.print(",");
-            myFile.println(gps.speed.kmph());
+            myFile.println("Y");
             myFile.close();
           }
           //Reset variables, and set last dateTime to the current one
