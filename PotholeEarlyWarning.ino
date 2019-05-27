@@ -10,8 +10,14 @@
  * GPS Module:
  * http://arduiniana.org/libraries/tinygpsplus/
  *
- * SD Card Module
+ * SD Card Module:
  * https://randomnerdtutorials.com/guide-to-sd-card-module-with-arduino/
+ *
+ * Piezo buzzer:
+ * https://programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/?fbclid=IwAR1teOa4kVXI9iwnuMcvbjpxJBa90iNEoMXnPO8_AwXLkxgzkz54sw4ecu4
+ *
+ * String splitting (for the commas in each row of .txt file)
+ * https://arduino.stackexchange.com/questions/1013/how-do-i-split-an-incoming-string?fbclid=IwAR1k6n7cfzibGKHm77vLPtyfHEHkUNK-uEsl3Db51mZkvgmHzWf9r6ML_h8
  */
 
 #include <TinyGPS++.h>
